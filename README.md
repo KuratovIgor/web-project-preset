@@ -18,6 +18,7 @@
 * ### *[StyleLint](https://stylelint.io/) configuration*
    * *Lint sass/scss*
    * *Styles order*
+### *Preset uses node.js 16.11.0 and npm 8.0.0!*
 ### Webpack default uses entry file extension .ts. If you want to use JavaScript:
  1. #### Change webpack config
 ```javascript
