@@ -29,10 +29,10 @@ entry: {
 2. Change extension index.ts file into .js 
 ## Start project:
    * ### Build for development 
-      >npm run dev 
+      ```npm run dev```
    * ### Build for production
-      >npm run build
+      ```npm run build```
    * ### Run watch in live
-      > npm run watch
+      ```npm run watch```
    * ### Start dev server
-      >npm run start
+      ```npm run start```
