@@ -4,6 +4,7 @@
     "stylelint-order"
   ],
   "rules": {
+    "string-quotes": "single",
     "order/order": [
       "custom-properties",
       "dollar-variables",
