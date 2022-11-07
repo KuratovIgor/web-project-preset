@@ -1,6 +1,5 @@
 # JavaScript project preset #
 
-==============================================================
 ### Use build preset in your WEB project for comfortable development. You can change project configuration as you like.
 ## Preset includes:
 * ### *[Webpack](https://webpack.js.org/) configuration*
